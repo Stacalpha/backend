@@ -1,0 +1,26 @@
+{
+  "name": "rest-api",
+  "version": "1.0.0",
+  "description": "Creating a Rest API - Course on Openclassroom for DevC Training.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Stacalpha/backend.git"
+  },
+  "keywords": [
+    "Rest",
+    "API",
+    "Node",
+    "Express"
+  ],
+  "author": "Feranmi Akinlade <feranmiakinlade@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Stacalpha/backend/issues"
+  },
+  "homepage": "https://github.com/Stacalpha/backend#readme"
+}
